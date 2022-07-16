@@ -1,1 +1,1 @@
-Testing Git 101
+Testing Git
